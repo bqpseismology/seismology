@@ -2,3 +2,5 @@
 back.sh
 build/
 dist/
+
+*.egg-info/

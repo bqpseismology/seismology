@@ -7,3 +7,4 @@ src/seismology.egg-info/SOURCES.txt
 src/seismology.egg-info/dependency_links.txt
 src/seismology.egg-info/top_level.txt
 src/seismology/data/111.dat
+src/seismology/preprocess/__init__.py
