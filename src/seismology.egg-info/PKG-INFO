@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: seismology
+Version: 0.0.1
+Summary: A package for seismic source inversion
+Home-page: UNKNOWN
+Author: Qipeng Bai
+Author-email: bqpseismology@gmail.com
+License: UNKNOWN
+Description: I write some python scripts to process and test the work of seismology
+Keywords: seismology,eathquake,python
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 0.0.1
+Classifier: Intended Audience :: Science/Research
+Classifier: Operating System :: Unix

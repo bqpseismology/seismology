@@ -1,0 +1,9 @@
+setup.py
+src/seismology/__init__.py
+src/seismology/plotsource.py
+src/seismology/source.py
+src/seismology.egg-info/PKG-INFO
+src/seismology.egg-info/SOURCES.txt
+src/seismology.egg-info/dependency_links.txt
+src/seismology.egg-info/top_level.txt
+src/seismology/data/111.dat
