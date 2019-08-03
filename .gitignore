@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 ##ignore file##
 
 *.sh
+=======
+#ignore file#
+back.sh
+>>>>>>> develop
 build/
 dist/
 seismology/
